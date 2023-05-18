@@ -19,6 +19,7 @@ To run the code in this repository, you need the following dependencies:
 - TensorFlow
 
 You can install the required packages by running the following command:
+
 pip install -r requirements.txt
 
 ## Usage
@@ -49,4 +50,4 @@ After training the model on the flower dataset, the performance of the model is 
 
 Feel free to use and modify the code according to your needs.
 
-If you encounter any issues or have questions, please feel free to contact [bugra.eyidogan@gmail.com]
+If you encounter any issues or have questions, please feel free to contact bugra.eyidogan@gmail.com
