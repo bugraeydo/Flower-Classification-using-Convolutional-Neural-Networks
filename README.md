@@ -47,10 +47,6 @@ After training the model on the flower dataset, the performance of the model is 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to use and modify the code according to your needs.
 
-If you encounter any issues or have questions, please feel free to contact [your-email@example.com](mailto:your-email@example.com).
-
-Happy coding!
+If you encounter any issues or have questions, please feel free to contact [bugra.eyidogan@gmail.com]
