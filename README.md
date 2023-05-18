@@ -1,6 +1,4 @@
 # Flower-Classification-using-Convolutional-Neural-Networks
-Flower Classification using Convolutional Neural Networks with Data Augmentation
-# Flower Classification using Convolutional Neural Networks
 
 This repository contains code for a flower classification task using convolutional neural networks (CNNs). The goal is to build a model that can accurately classify images of flowers into five different categories: roses, daisies, dandelions, sunflowers, and tulips.
 
